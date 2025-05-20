@@ -16,7 +16,7 @@ This GitHub portfolio showcases selected academic and research projects I’ve w
   Experimental setup for artificial speech output in a humanoid robot. Covers scripting, integration, and timing logic.  
   *🤖 Robotics | Python | Experimental Design*
 
-- [**Chronotype and Cognitive Control (EEG)**](https://github.com/cafaroval/chronotype-eeg)  
+- [**Chronotype and Cognitive Control (EEG)**](https://github.com/cafaroval/pvt-eeg-chronotype)
   EEG-based investigation of sustained attention and time-of-day effects using the PVT. Includes EEG preprocessing, behavioral analysis, and visualization.  
   *⏰ Lab Rotation Project | EEG | Python | Statistics*
 
@@ -25,9 +25,4 @@ This GitHub portfolio showcases selected academic and research projects I’ve w
 ## 📬 Let's Connect
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/jafarovalalaa)
-- 💼 [Portfolio](#) *(add if you make a Notion/CV site later)*
 - 🧠 Always open to discussing neuroscience, code, or coffee ☕️
-
----
-
-> *“In research, even non-significant results are steps forward — as long as the pipeline is reproducible.”*
