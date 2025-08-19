@@ -25,4 +25,3 @@ This GitHub portfolio showcases selected academic and research projects I’ve w
 ## 📬 Let's Connect
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/jafarovalalaa)
-- 🧠 Always open to discussing neuroscience, code, or coffee ☕️
