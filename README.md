@@ -9,7 +9,7 @@ This GitHub portfolio showcases selected academic and research projects I’ve w
 ## 🧠 Featured Projects
 
 - [**EEG Analysis for Interictal Activity**](https://github.com/cafaroval/eeg-interictal-analysis)  
-  Signal- and source-space detection of epileptiform spikes using EEG data. Includes MATLAB pipelines and Brainstorm processing workflows.  
+  Signal- and source-space detection of epileptiform spikes using EEG data. Includes MATLAB pipelines.  
   *🧪 MSc Thesis | Neuroimaging, Preprocessing, Source Localization*
 
 - [**Voice Generation for Ameca Robot**](https://github.com/cafaroval/ameca-voice-gen)  
