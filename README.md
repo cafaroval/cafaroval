@@ -1,27 +1,40 @@
 # 👋 Hi, I'm Lala Jafarova
 
-I'm a Cognitive Science graduate with hands-on research experience in **EEG analysis**, **brain stimulation**, and **experimental psychology**. My work spans topics like cognitive control, sleep chronotypes, and signal-space modeling of brain activity. I enjoy building reproducible pipelines that bridge neuroscience and computation.
+I'm a Cognitive Science graduate with hands-on research experience in 
+**EEG analysis**, **machine learning**, and **computational neuroscience**. 
+My work spans clinical neuroimaging, cognitive control, and signal-space 
+modeling of brain activity. I enjoy building reproducible pipelines that 
+bridge neuroscience and data science.
 
-This GitHub portfolio showcases selected academic and research projects I’ve worked on during my Master’s and lab rotations.
+This GitHub portfolio showcases selected academic and research projects 
+from my Master's degree and lab rotations.
 
 ---
 
 ## 🧠 Featured Projects
 
 - [**EEG Analysis for Interictal Activity**](https://github.com/cafaroval/eeg-interictal-analysis)  
-  Signal- and source-space detection of epileptiform spikes using EEG data. Includes MATLAB pipelines.  
-  *🧪 MSc Thesis | Neuroimaging, Preprocessing, Source Localization*
+  Signal- and source-space detection of epileptiform spikes using machine 
+  learning. Includes feature extraction, ANN classification, and source 
+  localization pipelines.  
+  *🧪 MSc Thesis | Neuroimaging | Python | MATLAB*
+
+- [**ABIDE Network Analysis: Autism vs Control**](https://github.com/cafaroval/DYNAMIC-ABIDE-Network-Analysis)  
+  Graph theory network metrics extracted from resting-state fMRI 
+  connectivity matrices, classified using Random Forest and Logistic 
+  Regression with cross-validation.  
+  *🧬 Take-Home Task | Network Analysis | Python | ML*
 
 - [**Voice Generation for Ameca Robot**](https://github.com/cafaroval/ameca-voice-gen)  
-  Experimental setup for artificial speech output in a humanoid robot. Covers scripting, integration, and timing logic.  
+  Experimental setup for artificial speech output in a humanoid robot.  
   *🤖 Robotics | Python | Experimental Design*
 
-- [**Chronotype and Cognitive Control (EEG)**](https://github.com/cafaroval/pvt-eeg-chronotype)
-  EEG-based investigation of sustained attention and time-of-day effects using the PVT. Includes EEG preprocessing, behavioral analysis, and visualization.  
-  *⏰ Lab Rotation Project | EEG | Python | Statistics*
+- [**Chronotype and Cognitive Control (EEG)**](https://github.com/cafaroval/pvt-eeg-chronotype)  
+  EEG-based investigation of sustained attention and time-of-day effects 
+  using the Psychomotor Vigilance Task.  
+  *⏰ Lab Rotation | EEG | Python | Statistics*
 
 ---
 
 ## 📬 Let's Connect
-
 - 📫 [LinkedIn](https://www.linkedin.com/in/jafarovalalaa)
