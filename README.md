@@ -22,7 +22,6 @@ Currently based in Münster 🇩🇪
 | Project | Description | Stack |
 |---|---|---|
 | [**EEG Spike Detection (MSc Thesis)**](https://github.com/cafaroval/ML_spike_detection) | Signal- & source-space ANN pipeline for interictal epileptiform spike detection | MATLAB · FieldTrip · ANN |
-| [**ABIDE Network Analysis**](https://github.com/cafaroval/DYNAMIC-ABIDE-Network-Analysis) | Graph-theory fMRI connectivity features for Autism vs. Control classification | Python · NetworkX · sklearn |
 | [**PVT Chronotype EEG**](https://github.com/cafaroval/pvt-eeg-chronotype) | EEG correlates of sustained attention and chronotype using the Psychomotor Vigilance Task | Python · Brain Vision · Statistics |
 | [**Ameca Voice Generation**](https://github.com/cafaroval/ameca-voice-gen) | Artificial speech output system for a humanoid robot | Python · TTS |
 
